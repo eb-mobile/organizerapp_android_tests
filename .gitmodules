@@ -1,0 +1,3 @@
+[submodule "organizerapp_android"]
+	path = organizerapp_android
+	url = https://github.com/eventbrite/organizerapp_android.git
