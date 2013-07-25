@@ -1,4 +1,4 @@
-/Users/raymond/Projects/organizerapp_android/OrganizerMockup/tests/bin/LoginActivityTest-debug-unaligned.apk : \
-/Users/raymond/Projects/organizerapp_android/OrganizerMockup/tests/bin/LoginActivityTest.ap_ \
-/Users/raymond/Projects/organizerapp_android/OrganizerMockup/tests/bin/classes.dex \
-/Users/raymond/Projects/organizerapp_android/OrganizerMockup/tests/libs/robotium-solo-4.2.jar \
+/Users/raymond/temp/organizerapp_android_tests/bin/LoginActivityTest-debug-unaligned.apk : \
+/Users/raymond/temp/organizerapp_android_tests/bin/LoginActivityTest.ap_ \
+/Users/raymond/temp/organizerapp_android_tests/bin/classes.dex \
+/Users/raymond/temp/organizerapp_android_tests/libs/robotium-solo-4.2.jar \
